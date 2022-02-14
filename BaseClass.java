@@ -1,5 +1,5 @@
 package TestBanking;
 
-public class LoginPage {
+public class BaseClass {
 
 }
